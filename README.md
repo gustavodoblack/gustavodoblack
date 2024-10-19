@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Sou apaixonado por tecnologia e um entusiasta em Python, SQL e R✨<br>📚 • Graduando técnologo em Data Science pela Faculdade de Tecnologia (FATEC);<br>👩🏻‍💻 • Data Management Intern at Kantar Worldpanel;</p>
+<p align="left">Sou apaixonado por tecnologia e um entusiasta em Python, SQL e R✨<br>📚 • Graduando técnologo em Data Science pela Faculdade de Tecnologia (FATEC);<br>👩🏻‍💻 • Data Management Analysr Jr at Kantar Worldpanel;</p>
 
 ###
 
